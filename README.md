@@ -5,3 +5,4 @@
   -No framework backend ni frontend, js puro.
   -Practica de metodos basicos e intermedios de js.
   -Practica de json, fetch, asincronia, css, html y librerias js.
+-Guillermo Vera
